@@ -38,12 +38,15 @@ Global sales dataset (~51,000+ rows, 24 columns)
 
  🔹 Visual Analysis
 1. Monthly Revenue Trend
+   Visualizations/Monthly Revenue Trend.png
+3. Revenue by Region
+   Visualizations/Revenue By Geographical Region.png
+5. Regional Sales vs Profitability
+   Visualizations/Regional Sales VS Profitability.png
+6. Top Product Sub-Categories
+   Visualizations/Top Products.png
 
-2. Revenue by Region
 
-3. Regional Sales vs Profitability
-
-4. Top Product Sub-Categories
 
 
 
