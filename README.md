@@ -37,14 +37,19 @@ Global sales dataset (~51,000+ rows, 24 columns)
 
 
  🔹 Visual Analysis
-1. Monthly Revenue Trend
-   Visualizations/Monthly Revenue Trend.png
+
+1.Monthly Revenue Trend
+  
+  <img width="676" height="395" alt="Monthly Revenue Trend" src="https://github.com/user-attachments/assets/7e7e13c9-0b93-4e74-b8ab-b0c7aa5f6867" />  
+
 3. Revenue by Region
-   Visualizations/Revenue By Geographical Region.png
+  <img width="688" height="379" alt="Revenue By Geographical Region" src="https://github.com/user-attachments/assets/96ee8f8f-118b-4bfc-9bca-e1974eca2b23" />
+
 5. Regional Sales vs Profitability
-   Visualizations/Regional Sales VS Profitability.png
+   <img width="1388" height="449" alt="Regional Sales VS Profitability" src="https://github.com/user-attachments/assets/457b22d0-c20e-4958-87ff-0c6610b3fbec" />
+
 6. Top Product Sub-Categories
-   Visualizations/Top Products.png
+   <img width="1391" height="462" alt="Top Products" src="https://github.com/user-attachments/assets/19466461-b828-4cc6-8ad3-3d6af86b061f" />
 
 
 
