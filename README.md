@@ -43,7 +43,8 @@ Global sales dataset (~51,000+ rows, 24 columns)
   <img width="676" height="395" alt="Monthly Revenue Trend" src="https://github.com/user-attachments/assets/7e7e13c9-0b93-4e74-b8ab-b0c7aa5f6867" />  
 
 3. Revenue by Region
-  <img width="688" height="379" alt="Revenue By Geographical Region" src="https://github.com/user-attachments/assets/96ee8f8f-118b-4bfc-9bca-e1974eca2b23" />
+
+   <img width="717" height="436" alt="Revenue By Regions" src="https://github.com/user-attachments/assets/fc47d08d-03d4-4a65-be39-812f69e0122e" />
 
 5. Regional Sales vs Profitability
    <img width="1388" height="449" alt="Regional Sales VS Profitability" src="https://github.com/user-attachments/assets/457b22d0-c20e-4958-87ff-0c6610b3fbec" />
